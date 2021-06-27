@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 	setlocale(LC_ALL, "ru");
-	cout << "Заполните строку: ";
+	cout << "Р—Р°РїРѕР»РЅРёС‚Рµ СЃС‚СЂРѕРєСѓ: ";
 	string str;
 	cin >> str;
 
